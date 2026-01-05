@@ -1,6 +1,5 @@
 # codeforces-dual-solutions
-Daily Codeforces problem solutions implemented in both C++ and Python to improve algorithmic thinking and language proficiency.
-# Codeforces Daily Practice
+Daily Codeforces problem solving with solutions implemented in both C++ and Python to improve algorithmic thinking and language proficiency.
 
 🎯 Goal: Solve at least 1 problem daily  
 💻 Languages: C++ and Python  
