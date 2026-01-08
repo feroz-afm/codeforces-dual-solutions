@@ -3,7 +3,7 @@ Daily Codeforces problem solving with solutions implemented in both C++ and Pyth
 
 🎯 Goal: Solve at least 1 problem daily  
 💻 Languages: C++ and Python  
-📈 Focus: 800–1200 rated problems  
+📈 Focus: 800–3500 rated problems  
 
 ## About
 This repository contains daily Codeforces problem solutions.
